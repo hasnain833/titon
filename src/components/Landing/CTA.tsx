@@ -47,19 +47,19 @@ export const CTA = () => {
 
                <div className="lg:col-span-2 space-y-6">
                   <div className="text-[10px] font-bold tracking-widest uppercase text-slate-900">EXPLORE</div>
-                  <div className="flex flex-col gap-4 text-sm font-normal text-slate-600 text-slate-500">
-                     <a href="#" className="hover:text-primary transition-colors text-slate-600">The Manifesto</a>
-                     <a href="#" className="hover:text-primary transition-colors text-slate-600">System Schema</a>
-                     <a href="#" className="hover:text-primary transition-colors text-slate-600">Engine Logs</a>
+                  <div className="flex flex-col gap-4 text-sm font-normal text-slate-600">
+                     <a href="#" className="hover:text-primary transition-colors">The Manifesto</a>
+                     <a href="#" className="hover:text-primary transition-colors">System Schema</a>
+                     <a href="#" className="hover:text-primary transition-colors">Engine Logs</a>
                   </div>
                </div>
 
                <div className="lg:col-span-2 space-y-6">
                   <div className="text-[10px] font-bold tracking-widest uppercase text-slate-900">SYSTEM</div>
                   <div className="flex flex-col gap-4 text-sm font-normal text-slate-600">
-                     <a href="#" className="hover:text-primary transition-colors text-slate-600">Security Gate</a>
-                     <a href="#" className="hover:text-primary transition-colors text-slate-600">Data Rights</a>
-                     <a href="#" className="hover:text-primary transition-colors text-slate-600">Encryption</a>
+                     <a href="#" className="hover:text-primary transition-colors">Security Gate</a>
+                     <a href="#" className="hover:text-primary transition-colors">Data Rights</a>
+                     <a href="#" className="hover:text-primary transition-colors">Encryption</a>
                   </div>
                </div>
 

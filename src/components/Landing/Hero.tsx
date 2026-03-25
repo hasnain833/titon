@@ -72,12 +72,12 @@ export const Hero = () => {
       </div>
 
       {/* Scroll indicator refinement */}
-      <div className="absolute bottom-12 left-1/2 -translate-x-1/2 flex flex-col items-center gap-4 opacity-30">
+      {/* <div className="absolute bottom-12 left-1/2 -translate-x-1/2 flex flex-col items-center gap-4 opacity-30">
         <div className="text-[10px] font-bold tracking-[0.5em] uppercase text-slate-400">SCROLL</div>
         <div className="w-[1px] h-12 bg-slate-400 relative overflow-hidden">
           <div className="absolute top-0 left-0 w-full h-full bg-primary animate-scroll-line" />
         </div>
-      </div>
+      </div> */}
     </section>
   );
 };
